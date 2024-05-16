@@ -1,0 +1,68 @@
+body, ul {
+        margin: 0;
+        padding: 0;
+    }
+
+    .menu {
+        background-color: #CEB0F0;
+        overflow: hidden;
+    }
+
+    .menu ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+    }
+
+    .menu ul li {
+        float: left;
+    }
+
+    .menu ul li a {
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 35px 16px;
+        text-decoration: none;
+        font-size: 30px;
+    }
+
+    .menu ul li a:hover {
+        background-color: #A577D8;
+    }
+    
+    #men{
+        margin-left: 90px;
+    }
+
+   #text{
+        margin-left: 150px;
+        font-family: "Lobster", cursive;
+        text-align:justify-all;
+    }
+
+    .body img{
+        margin-right: 200px;
+    }
+
+    .body cancion{
+        margin-right: 20px;
+    }
+
+    ul{
+        margin-left: 100 px;
+    }
+
+    .lista{
+        margin-left: 100px;
+    }
+
+    footer{
+        background-color: #CEB0F0;
+        color:white;
+        text-align: center;
+        padding: 10px;
+        position: fixed;
+        width: 100%;
+        bottom: 0;
+    }
